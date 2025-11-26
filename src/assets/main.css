@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opcional: estilos globales básicos */
+body {
+  @apply bg-grisSuave font-nunito text-gray-800;
+}
